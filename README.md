@@ -1,2 +1,2 @@
-# DataScience_course
-Работы по курсу Data Science, ML, AI
+# DataScience
+Блоки к проектам Data Science, ML, AI
