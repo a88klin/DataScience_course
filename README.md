@@ -1,2 +1,2 @@
 # DataScience_course
-Работы по курсу Data Science, ML, AI "Университета искусственного интеллекта"
+Работы по курсу Data Science, ML, AI
